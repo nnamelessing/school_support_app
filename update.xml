@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.2</version> 
+    <version>1.3</version> 
     <url>https://raw.githubusercontent.com/nnamelessing/school_support_app/main/SchoolSupportApp.zip</url>
-    <changelog>https://github.com/nnamelessing/school_support_app/releases/tag/v1.1</changelog>
     <mandatory>true</mandatory>
 </item>
